@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+
+h3 {
+    color: gray;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px;
+}
+
+p {
+    padding-top: 10px;
+    font-family: monospace;
+    font-size: large;
+}
+
+.d1 {
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.d2 {
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.d3 {
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.d4 {
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+
+.d5 {
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.d6 {
+    display: flex;
+    flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    padding-top: 10px;
+}
+
+.Result {
+    padding-left: 15px;
+}
+
+input {
+    border-radius: 4px;
+    width: 40px;
+}
